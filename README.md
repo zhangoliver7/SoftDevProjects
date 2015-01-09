@@ -1,6 +1,7 @@
 # SoftDevProjects
 This is a repository containing all the links to my projects.
-Oliver Zhang
+
+# Oliver Zhang
 
 Final Project: 
   Team members: Cynthia Zhou, Michael Huang
